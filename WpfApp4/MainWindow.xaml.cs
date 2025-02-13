@@ -125,7 +125,7 @@ namespace WpfApp4
             }
         }
 
-        private void lbWorking_MouseDoubleClick(object sender, MouseButtonEventArgs e)
+        private void lbWorking_MouseDoubleClick(object sender, MouseButtonEventArgs e) 
         {
             try
             {
